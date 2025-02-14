@@ -1,0 +1,4 @@
+baseURL = 'https://germanbustamante.github.io/'
+languageCode = 'en-us'
+title = 'German Bustamante Blog'
+theme = "contrast-hugo"

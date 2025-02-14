@@ -1,0 +1,8 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/germanbustamante/germanbustamante.github.io.git
+	branch = main
+[submodule "GermanBustamanteBlog/public"]
+	path = GermanBustamanteBlog/public
+	url = https://github.com/germanbustamante/germanbustamante.github.io.git
+	branch = main
